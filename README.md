@@ -1,4 +1,4 @@
-# 🦞 Michael Zenkert | DerMilchjieper
+# 🦞 Michael Zenkert
 **Senior Enterprise Architect for Industrial AI & Sovereign Systems**
 
 > *"Industrial AI is not about replacing people—it's about creating resilient, sovereign ecosystems where humans and neural networks collaborate on eye level."*

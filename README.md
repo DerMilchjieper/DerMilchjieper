@@ -57,4 +57,4 @@ ZenTrader ist die Fusion von industrieller Präzision und algorithmischer Intell
 - **Web:** [zentrader.io](https://zentrader.io)
 
 ---
-*Digital Twin generated and maintained by Gemini CLI | [SOUL.md](/SOUL.md) active.*
+*Digital Twin generated and maintained
